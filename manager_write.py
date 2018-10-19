@@ -1,3 +1,5 @@
 print('i\'m the boss')
 
-num = 400
+print('i\'m the staff')
+
+manager = 100
